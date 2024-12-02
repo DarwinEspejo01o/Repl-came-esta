@@ -1,50 +1,50 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="description" content="Informaciones de cada paÌs">
+<meta name="description" content="Informaciones de cada pa√≠s">
 <meta charset="utf-8">
 </head>
 <body>
 
-<table>
-<caption>PaÌses</caption>
+<table border="1">
+<caption>Pa√≠ses</caption>
 <tr>
 <th><img href="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRIGqr8RKBL4Bx1dmCnSS-
-               nM3XAP2d86IO8PK94uJy8SgH_XB9h2mZziaDQoonFNOq9x2dBreid-56b8km9LNkBjgrEkCuvwm8YkDFMCA"alt="JapÛn"></th>
+               nM3XAP2d86IO8PK94uJy8SgH_XB9h2mZziaDQoonFNOq9x2dBreid-56b8km9LNkBjgrEkCuvwm8YkDFMCA"alt="Jap√≥n"></th>
 
-<td>JapÛn es una naciÛn insular del ocÈano PacÌfico con densas ciudades, palacios imperiales, parques nacionales montaÒosos y 
+<td>Jap√≥n es una naci√≥n insular del oc√©ano Pac√≠fico con densas ciudades, palacios imperiales, parques nacionales monta√±osos y 
 miles de santuarios y templos.</td>
 </tr>
 
 
 <tr>
 <th><img href="https://bloquelatinoamericanoberlin.org/wp-content/uploads/2024/09/1x-1-1.jpg"alt="Venezuela"></th>
-<td>Venezuela es un paÌs de la costa norte de AmÈrica del Sur, con diversas atracciones naturales. A lo largo de su costa en el Caribe, 
-hay islas turÌsticas tropicales, entre ellas la Isla de Margarita y el archipiÈlago Los Roques.</td>
+<td>Venezuela es un pa√≠s de la costa norte de Am√©rica del Sur, con diversas atracciones naturales. A lo largo de su costa en el Caribe, 
+hay islas tur√≠sticas tropicales, entre ellas la Isla de Margarita y el archipi√©lago Los Roques.</td>
 </tr>
 
 <tr>
-<th><img href="https://lh5.googleusercontent.com/p/AF1QipPVRyqNwBkPGFTPdcqXJRH_9UD9iRY3nZyUu3xB=w540-h312-n-k-no"alt="MÈxico"></th>
-<td>MÈxico es un paÌs entre los Estados Unidos y AmÈrica Central, conocido por las playas en el PacÌfico y el golfo de MÈxico, 
-y su diverso paisaje de montaÒas, desiertos y selvas. Las ruinas antiguas, como Teotihuac·n y la ciudad maya de ChichÈn Itz·, 
-se distribuyen por el paÌs, al igual que las ciudades de la Època colonial espaÒola. En la capital Ciudad de MÈxico, las elegantes 
+<th><img href="https://lh5.googleusercontent.com/p/AF1QipPVRyqNwBkPGFTPdcqXJRH_9UD9iRY3nZyUu3xB=w540-h312-n-k-no"alt="M√©xico"></th>
+<td>M√©xico es un pa√≠s entre los Estados Unidos y Am√©rica Central, conocido por las playas en el Pac√≠fico y el golfo de M√©xico, 
+y su diverso paisaje de monta√±as, desiertos y selvas. Las ruinas antiguas, como Teotihuac√°n y la ciudad maya de Chich√©n Itz√°, 
+se distribuyen por el pa√≠s, al igual que las ciudades de la √©poca colonial espa√±ola. En la capital Ciudad de M√©xico, las elegantes 
 tiendas, los famosos museos y los restaurantes gourmet son parte de la vida moderna.</td>
 </tr>
 
 <tr>
 <th><img href="https://lh5.googleusercontent.com/p/AF1QipO0jDqEA4d2y-H9bcfOJ3NgTPhpbdFNFdwB3eZu=w540-h312-n-k-no"alt="Italia"></th>
-<td>Italia, paÌs europeo con una larga costa mediterr·nea, influyÛ considerablemente en la cultura y la cocina occidental. 
-Su capital, Roma, es hogar del Vaticano, de ruinas antiguas y de obras de arte emblem·ticas. Otras ciudades importantes son 
-Florencia, con obras maestras del renacimiento, como el "David" de Miguel ¡ngel y el Domo de Brunelleschi; Venecia, la ciudad de 
-los canales; y Mil·n, la capital italiana de la moda.</td>
+<td>Italia, pa√≠s europeo con una larga costa mediterr√°nea, influy√≥ considerablemente en la cultura y la cocina occidental. 
+Su capital, Roma, es hogar del Vaticano, de ruinas antiguas y de obras de arte emblem√°ticas. Otras ciudades importantes son 
+Florencia, con obras maestras del renacimiento, como el "David" de Miguel √Ångel y el Domo de Brunelleschi; Venecia, la ciudad de 
+los canales; y Mil√°n, la capital italiana de la moda.</td>
 </tr>
 
 <tr>
 <th><img href=""alt="Noruega"></th>
-<td>Noruega es un paÌs escandinavo que incluye montaÒas, glaciares y profundos fiordos costeros. Oslo, su capital, es una ciudad 
-de ·reas verdes y museos. En el Museo de barcos vikingos de Oslo, se muestran navÌos vikingos preservados del siglo IX. Bergen, 
-con coloridas casas de madera, es el punto de partida de los cruceros hacia el sorprendente fiordo de Sogn. Noruega tambiÈn es 
-famosa por la pesca, el excursionismo y el esquÌ, especialmente en el centro olÌmpico Lillehammer.</td>
+<td>Noruega es un pa√≠s escandinavo que incluye monta√±as, glaciares y profundos fiordos costeros. Oslo, su capital, es una ciudad 
+de √°reas verdes y museos. En el Museo de barcos vikingos de Oslo, se muestran nav√≠os vikingos preservados del siglo IX. Bergen, 
+con coloridas casas de madera, es el punto de partida de los cruceros hacia el sorprendente fiordo de Sogn. Noruega tambi√©n es 
+famosa por la pesca, el excursionismo y el esqu√≠, especialmente en el centro ol√≠mpico Lillehammer.</td>
 </tr>
 
 
