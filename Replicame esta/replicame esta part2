@@ -7,9 +7,9 @@
   <body>
     <table border="1">
       <tr>
-        <th colspan="2">Enero</th>
-        <th colspan="2">Febrero</th>
-        <th colspan="2">Marzo</th>
+        <th>Enero</th>
+        <th>Febrero</th>
+        <th>Marzo</th>
       </tr>
 
       <tr>
